@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![avatar](/img/2_15.jpg=100x100)
+![avatar](/img/2_15.jpg){:height="50%" width="50%"}
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
