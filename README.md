@@ -1,2 +1,2 @@
-# ZhiyiDeng419.github.io
+# ZhiyiDeng
 Zhiyi Deng's portfolio
